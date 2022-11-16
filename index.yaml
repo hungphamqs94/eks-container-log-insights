@@ -3,12 +3,12 @@ entries:
   amazon-cloudwatch:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-16T10:20:32.083096809+07:00"
+    created: "2022-11-16T10:25:31.969948424+07:00"
     description: A Helm chart for Kubernetes
-    digest: d87a6e841fd92934a5c415bda90ae0cc2cc91a1033587f898fd85ffe28faceab
+    digest: ef457450a07e2366791b838f20f8306ea49b77078df816bd3d5281ed3d5d2051
     name: amazon-cloudwatch
     type: application
     urls:
     - https://hungphamqs94.github.io/eks-container-log-insights/amazon-cloudwatch-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-16T10:20:32.082579175+07:00"
+generated: "2022-11-16T10:25:31.9693644+07:00"
